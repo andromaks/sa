@@ -39,4 +39,4 @@ Actions have 2 scripts:
 \
 \
 \
-##Unit tests## were executed manually according to **Examples** specification
+##Unit tests were executed manually according to **Examples** specification
