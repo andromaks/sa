@@ -31,7 +31,7 @@ Output: 10-94, 206-300, 400-409, 421-500
 \
 \
 \
-Actions have 2 scripts:
+### Actions have 2 scripts:
 - golangci-lint
   Auntomatically runs on every push/pull requests and checks script code
 - Test Accross Matrix
@@ -39,4 +39,4 @@ Actions have 2 scripts:
 \
 \
 \
-## Unit tests ## were executed manually according to **Examples** specification
+### Unit tests were executed manually according to **Examples** specification
