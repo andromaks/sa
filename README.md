@@ -20,7 +20,7 @@ Excludes: (none) \
 Output: 10-5000 \
 \
 **Example 3:** \
-Includes: 10-100, 200-300 \ 
+Includes: 10-100, 200-300 \
 Excludes: 95-205 \
 Output: 10-94,206-300 \
 \
