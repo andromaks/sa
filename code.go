@@ -46,7 +46,7 @@ func max(a, b int) int {
 
 func main() {
 	// define the include and exclude intervals as slices of Interval
-	include := []Interval{{10, 100}}
+	include := []Interval{}
 	exclude := []Interval{{20, 30}}
 
 	// merge the include and exclude intervals separately
